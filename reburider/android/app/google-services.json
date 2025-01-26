@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690847769075",
+    "project_id": "rebu-fcea2",
+    "storage_bucket": "rebu-fcea2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690847769075:android:c31d1779b3e573a13b3286",
+        "android_client_info": {
+          "package_name": "com.example.rebudriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwvbqN_-hGe-Go0Os4JeKorJygfez97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690847769075:android:10a286d7ad45139b3b3286",
+        "android_client_info": {
+          "package_name": "com.example.reburider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwvbqN_-hGe-Go0Os4JeKorJygfez97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
